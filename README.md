@@ -56,11 +56,13 @@ The dataset contains:
 
 ## 📊 Visualizations
 
-Visualizations of the clusters using PCA:
+Visualizations of the clusters:
 
 | KMeans | DBSCAN | Agglomerative |
 |--------|--------|---------------|
-| ![](outputs/kmeans_clusters.png) | ![](outputs/dbscan_clusters.png) | ![](outputs/agglomerative_clusters.png) |
+| ![KMeans](clustering/outputs/kmeans_clusters.png) | ![DBSCAN](clustering/outputs/dbscan_clusters.png) | ![Agglomerative](clustering/outputs/agglomerative_clusters.png) |
+
+
 
 ---
 
