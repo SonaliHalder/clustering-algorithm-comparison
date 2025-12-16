@@ -46,15 +46,15 @@ The dataset contains:
 ### 4. **Evaluation Metrics**
 | Metric                   | KMeans | DBSCAN | Agglomerative |
 |--------------------------|--------|--------|---------------|
-| Silhouette Score         | 0.272  | 0.172  | **0.287 ✅**   |
-| Calinski-Harabasz Index  | 62.13  | 28.75  | **64.47 ✅**   |
-| Davies-Bouldin Index     | **1.181 ✅** | 2.736  | 1.220    |
+| Silhouette Score         | 0.272  | 0.172  | **0.287**   |
+| Calinski-Harabasz Index  | 62.13  | 28.75  | **64.47**   |
+| Davies-Bouldin Index     | **1.181** | 2.736  | 1.220    |
 
 > Based on metrics, **Agglomerative Clustering performed best**.
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 Visualizations of the clusters:
 
@@ -66,7 +66,7 @@ Visualizations of the clusters:
 
 ---
 
-## 🔍 Business Insights
+## Business Insights
 
 - Clusters reveal **young, high-income, high-spending customers** — ideal for targeted marketing.
 - Other clusters represent **older or low-spending segments** — useful for retention strategy.
